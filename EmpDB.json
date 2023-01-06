@@ -1,0 +1,28 @@
+{
+    "employee": [
+      {
+        "id":"1",
+        "name": "Devika",
+        "gender": "Female",
+        "salary": "700000"
+      },
+      {
+        "id": "2",
+        "name": "Suraj",
+        "gender": "male",
+        "salary": "900000"
+      },
+      {
+        "id": "3",
+        "name": "Asmita",
+        "gender": "Female",
+        "salary": "800000"
+      },
+      {
+        "id": "4",
+        "name": "Hritvik",
+        "gender": "Male",
+        "salary": "950000"
+      }
+    ]
+  }
